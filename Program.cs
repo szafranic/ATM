@@ -6,6 +6,7 @@
 		{
 			Console.WriteLine("Welcome to the ATM at 7-11 on Jefferson Ave");
 
+			Console.WriteLine("changing code lol");
 			List<User> users = new List<User>()
 			{
 				new User("Hudson", "1234", 1000),
