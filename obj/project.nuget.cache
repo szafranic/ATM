@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "d9Ii5MrDc7riXR7xxOxC0qMP6HiilrOGiDx+LAGAzqwhtyIepB1lH4pTSKLxKyX3d7hGko7Ck/6/CF5K0JfVEg==",
+  "dgSpecHash": "mocF7uhcmBWwkuNvT9TTXbgCq6tScHIFcKwalK7y50U7M8xzoLApJdLM5PcJlUr5zHIcdO/9pen7ALLx9y9Q8A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\stormy\\Git\\school projects\\ATM\\ATM.csproj",
+  "projectFilePath": "C:\\Users\\javas\\Source\\Repos\\ATM\\ATM.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
