@@ -6,7 +6,14 @@
 		{
 			Console.WriteLine("Welcome to the ATM at 7-11 on Jefferson Ave");
 
+
+			Console.WriteLine("changing code lol");
+            //test code review line change
+
+            List<User> users = new List<User>()
+
 			List<User> users = new List<User>()
+
 			{
 				new User("Hudson", "1234", 1000),
 				new User("Brian", "godfather", 9999999),
