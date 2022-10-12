@@ -7,7 +7,6 @@
 			Console.WriteLine("Welcome to the ATM at 7-11 on Jefferson Ave");
 
 			Console.WriteLine("changing code lol");
-			List<User> users = new List<User>()
             //test code review line change
 
             List<User> users = new List<User>()
